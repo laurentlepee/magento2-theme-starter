@@ -2,7 +2,8 @@
   "name": "lrntlp/theme-default",
   "description": "Magento 2 SASS boilerplate theme",
   "require": {
-//    "magento/theme-frontend-blank": "100.0.*",
+    "snowdog/theme-blank-sass": "0.10.*",
+    "snowdog/frontools": "1.4.5",
     "magento/framework": "100.0.*"
   },
   "type": "magento2-theme",
